@@ -33,8 +33,8 @@ The main objectives of this project were to:
 ## **Tools Used**
 To achieve the project objectives, the following tools were used:
 
-Microsoft Excel: For data cleaning, transformation, and preliminary analysis.
-Power BI: For creating interactive and detailed visualizations.
+- **Microsoft Excel**: For data cleaning, transformation, and preliminary analysis.
+- **Power BI**: For creating interactive and detailed visualizations.
 
 ## **Detailed Explanation of Each Component**
 1. Total Sales The dashboard highlights the total sales amounting to $1.20 million. This metric provides an overall view of the business's revenue from all outlets combined.
